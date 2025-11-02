@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @nhart99
 - 🤖 I’m interested in automation and ML
-- 🐍 I’m currently learning Python, very very slowly. 
 - 🙏 I’m looking to collaborate on text-based ML
-- 📫 How to reach me...same username on multiple platforms. 
+- 📫 How to reach me...same username on multiple platforms.
+- I don't want my user's data, that's what everyone else wants.
 
 <!---
 nhart99/nhart99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
