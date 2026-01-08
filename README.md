@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @nhart99
 - 🤖 I’m interested in automation and ML
-- 🙏 I’m looking to collaborate on text-based ML
 - 📫 How to reach me...same username on multiple platforms.
 - I don't want my user's data, that's what everyone else wants.
 
